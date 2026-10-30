@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🌐 SNTL 84 · Trade Directory
+For lead generation services, see the contact information in this README.
 
 ### Discover businesses. Build connections. Create opportunity.
 
@@ -316,3 +317,7 @@ Do not upload `src/` as a replacement for building the app. If hosting below a U
 *Vibe Coder · AI Workflow Developer · Independent Software Validator*
 
 </div>
+
+## Lead Generation Services
+
+Lead generation services: lead-generation-service-9727413309.
